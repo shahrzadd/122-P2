@@ -1,0 +1,56 @@
+
+.text2{
+    margin-top: 4rem;
+    margin-bottom: 3rem;
+   color: white;
+   font-size: 4.5rem;
+   font-weight: bold;
+   text-transform: uppercase;
+}
+
+
+.text4{
+    margin-top: 10rem;
+    margin-bottom: 5rem;
+   color: white;
+   font-size: 2.5rem;
+   font-weight: bold;
+   text-transform: uppercase;
+}
+
+.text3{
+	margin-top: 1rem;
+	
+   color: white;
+   font-size: 18px;
+   font-family: sans-serif;
+}
+
+.p-text{
+	margin-top: 1rem;
+	
+   color: white;
+   font-size: 36px;
+   font-family: sans-serif;
+   margin-bottom: 2.5rem;
+   text-transform: uppercase;
+}
+
+.image1{
+    width: 30rem;
+    height: 28rem;
+    margin-left: 3rem;
+}
+
+
+.btn1{
+    width: 15rem;
+    border-radius: 2rem;
+    height: 2.7rem;
+    background-color: #ff004c !important;
+}
+
+.brand-text{
+    
+    color: #03fcf0;
+}

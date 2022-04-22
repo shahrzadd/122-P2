@@ -1,0 +1,35 @@
+.footer-logo{
+	width: 10rem;
+}
+.footer-a{
+	padding-left: 2rem;
+	color: white !important;
+	text-decoration: none
+}
+
+.fa {
+
+	font-size: 30px;
+	width: 30px;
+	text-align: center;
+	text-decoration: none;
+	margin: 5px 2px;
+	border-radius: 50%;
+  }
+  
+  .fa:hover {
+	  opacity: 0.7;
+  }
+  
+  .fa-instagram {
+	margin-left: 1rem;
+	color: white;
+  }
+  .fa-twitter {
+	margin-left: 1rem;
+	color: white;
+  }
+  .fa-pinterest {
+	margin-left: 1rem;
+	color: white;
+  }
